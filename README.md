@@ -169,7 +169,6 @@ torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 ---
 
 ## Output
-![Screenshot 2025-03-29 053750](https://github.com/user-attachments/assets/31365780-a888-4d19-a687-841cffe3aa4c)
 
 ### Training & Validation Loss Over Epochs
 ![Screenshot 2025-03-29 053750](https://github.com/user-attachments/assets/64b08f34-b657-4f3f-952b-18903b52db89)
