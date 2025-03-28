@@ -52,7 +52,7 @@ pip install torch torchvision matplotlib numpy
 To clone this repository:
 
 ```bash
-git clone https://github.com/your-username/vq-vae-image-reconstruction.git
+git clone https://github.com/sszobaer/Addressing_Image_Blurriness_in_Reconstruction_with_VQ-VAE.git
 cd vq-vae-image-reconstruction
 ```
 
